@@ -1,5 +1,5 @@
 # Redlining Project
-A website that displays data on redlining/racist policies within a given area. Includes Greater Seattle Area (Bothell, Kenmore, Bellevue, Kirkland, Redmond, Newport, Tukwila, Renton).
+A website that displays data on redlining/racist policies within a given area. Includes Seattle and Greater Seattle Area (Bothell, Kenmore, Bellevue, Kirkland, Redmond, Newport, Tukwila, Renton).
 
 # Features/TODO:
  - [ ] Have a slider that goes through time and changes the map data based on what you select
